@@ -37,3 +37,19 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/fit-pulse.git
+
+2.Navigate to the project directory:
+
+bash
+Copy code
+cd fit-pulse
+Install dependencies:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+Copy code
+npm start
