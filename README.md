@@ -1,6 +1,7 @@
 # Fit Pulse 🏋️‍♂️
 
 **Fit Pulse** is a dynamic and visually engaging fitness website designed to promote a healthy lifestyle through workout programs, nutritional advice, and valuable health insights. The platform is built with a responsive design, ensuring a seamless experience across all devices.
+
 ![image](https://github.com/user-attachments/assets/6d3a2058-3bc0-4be4-9cfe-e02b78d8c930)
 
 ---
@@ -12,6 +13,7 @@
 - **Nutritional Advice** 🥗: Expert tips on maintaining a balanced diet to complement your fitness journey.
 - **Health Tips** 🏃‍♀️: Guides and resources to help users stay motivated and lead healthier lives.
 - **User-Friendly Interface** 🖥️: Easy navigation and clean layout for an enjoyable browsing experience.
+- 
 ![image](https://github.com/user-attachments/assets/21982a3f-898d-447c-97de-26f029c3fc1d)
 
 ---
