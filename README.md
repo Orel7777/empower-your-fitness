@@ -13,7 +13,7 @@
 - **Nutritional Advice** 🥗: Expert tips on maintaining a balanced diet to complement your fitness journey.
 - **Health Tips** 🏃‍♀️: Guides and resources to help users stay motivated and lead healthier lives.
 - **User-Friendly Interface** 🖥️: Easy navigation and clean layout for an enjoyable browsing experience.
-- 
+
 ![image](https://github.com/user-attachments/assets/21982a3f-898d-447c-97de-26f029c3fc1d)
 
 ---
