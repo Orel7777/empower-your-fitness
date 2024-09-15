@@ -93,6 +93,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 💬 Contact
 
-For any inquiries or feedback, please reach out via email@example.com.
+For any inquiries or feedback, please reach out via orelbukris7777@gmail.com.
 
 **Fit Pulse – Empower Your Fitness!**
