@@ -35,8 +35,8 @@ Before you begin, ensure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-2. 
    git clone https://github.com/YourUsername/fit-pulse.git
+   
 2.Navigate to the project directory:
 ```cd fit-pulse```
 
