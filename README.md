@@ -57,14 +57,6 @@ Before you begin, ensure you have the following installed:
    npm start
    ```
 
-## 🖼️ Screenshots
-
-* **Homepage**
-
-* **Workout Programs Section**
-
-* **Nutrition Section**
-
 ## 🎯 Future Improvements
 
 * **User Registration & Login** 🔐: Allow users to create accounts, track their progress, and save their favorite workouts.
