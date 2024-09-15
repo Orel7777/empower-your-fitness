@@ -91,9 +91,6 @@ We welcome contributions to enhance Fit Pulse! Feel free to open issues or submi
    ```
 5. Open a pull request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 💬 Contact
 
