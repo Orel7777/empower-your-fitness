@@ -9,7 +9,7 @@ import TabComp from "./components/TabComp/TabComp";
 import Testimonies from "./components/Testimonies/Testimonies";
 import Banner2 from "./components/Banner/Banner2";
 import Footer from "./components/Footer/Footer";
-
+// 
 const bgStyle = {
   backgroundImage: `url(${BgImage})`,
   backgroundRepeat: "no-repeat",
