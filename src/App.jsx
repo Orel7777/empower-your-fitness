@@ -1,5 +1,5 @@
 import Banner from "./components/Banner/Banner";
-import Equipment from "./components/Equipment/equipment";
+import Equipment from "./components/Equipment/Equipment";
 import Hero from "./components/Hero/Hero";
 import Navbar from "./components/Navbar/Navbar";
 import BgImage from "./assets/bg.png";
